@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "template package",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamH2000/webapp_template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamH2000/webapp_template/issues"
+  },
+  "homepage": "https://github.com/SamH2000/webapp_template#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3"
+  }
+}
